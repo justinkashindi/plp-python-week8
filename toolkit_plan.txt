@@ -1,0 +1,25 @@
+Beginner Toolkit Plan
+
+Tools
+
+1. Number Guessing Game — The program picks a secret number, and the player guesses until they get it right.
+   Concepts: loop, conditional, random number, input, f-string.
+
+2. To-Do List — The user can add tasks, view all tasks, and mark tasks complete.
+   Concepts: list, loop, conditional, input, f-string.
+
+3. Simple Calculator — The user enters two numbers and chooses addition, subtraction, multiplication, or division.
+   Concepts: conditional, input, arithmetic, loop, f-string.
+
+4. Name Formatter — The user enters a name, and the program displays it with cleaned-up spacing and title case.
+   Concepts: string methods, input, f-string.
+
+Exact menu text
+
+=== Beginner Toolkit ===
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Name Formatter
+5. Quit
+Choose an option (1-5):
